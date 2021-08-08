@@ -1,5 +1,7 @@
 # Website-Development-Fundamentals
 
+IDE tool: NetBeans
+
 Week 2 Lab: [Git and GitHub Practice](https://github.com/tix123/Web-Application-Programming/tree/main/Week02Lab)
 
 Week 3 Lab: [Simple Servlet](https://github.com/tix123/Web-Application-Programming/tree/main/Week03Lab)
